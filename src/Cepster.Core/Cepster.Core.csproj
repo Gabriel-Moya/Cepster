@@ -4,6 +4,15 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <Title>Cepster</Title>
+    <PackageId>Cepster</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Gabriel Moya</Authors>
+    <RepositoryUrl>https://github.com/Gabriel-Moya/Cepster</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Gabriel-Moya/Cepster</PackageProjectUrl>
+    <PackageTags>CEP;ZipCode;ViaCep;BrasilAPI;Correios</PackageTags>
+      
   </PropertyGroup>
 
 </Project>
